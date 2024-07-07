@@ -20,9 +20,8 @@ The Task Board is a simple Kanban-style project management tool designed to help
 
 ## Screenshots
 ![1](https://github.com/Jovana667/Task-Board-Management-Tool/assets/114545493/f4ee6037-49ae-47b5-ae64-52f06269d0e5)
-![2](https://github.com/Jovana667/Task-Board-Management-Tool/assets/114545493/ef
+![2](https://github.com/Jovana667/Task-Board-Management-Tool/assets/114545493/ef1fcb04-644f-460f-a54f-e2f2916ad70e)
 ![3](https://github.com/Jovana667/Task-Board-Management-Tool/assets/114545493/7e3a11b7-4f9f-4005-9c4b-bb659c798b6f)
-1fcb04-644f-460f-a54f-e2f2916ad70e)
 ![4](https://github.com/Jovana667/Task-Board-Management-Tool/assets/114545493/8f55e3b3-8f90-4396-b957-af7500e5fc5e)
 ![5](https://github.com/Jovana667/Task-Board-Management-Tool/assets/114545493/5cda0faf-2085-46d8-8b38-333806a4f050)
 
