@@ -4,7 +4,7 @@
 The Task Board is a simple Kanban-style project management tool designed to help users add, organize and track their tasks according to their deadlines and status of completion. 
 
 ## Features 
-- Three columns for the different progress states (Not Yet Started, In Progress, Completed)
+- Three columns for the different progress states (To Do, In Progress, Done)
 - Color-coded task cards to indicate approaching deadlines (yellow) or overdue tasks (red)
 - Add new tasks that include a title, description, and deadline
 - Drag-and-drop functionality to update task progress
